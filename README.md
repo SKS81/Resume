@@ -35,6 +35,8 @@
 ![Htest](https://github.com/SKS81/Resume/blob/main/Svht.JPG?raw=true "Свидетельство IQA-48-8138989")
 - «Git – система контроля версий» свидетельство GIT-56-8138989 ООО «Нетология» 2022г.
 ![Git](https://github.com/SKS81/Resume/blob/main/SvGit.JPG?raw=true "Свидетельство GIT-56-8138989")
+- "Java для тестировщиков" свидетельство JAVAQA-48-8138989 ООО «Нетология» 2022г.
+![Java](https://github.com/SKS81/Resume/blob/main/Svjava.JPG?raw=true "Свидетельство JAVAQA-48-8138989")
 ***
 ## **Дополнительная информация**
 - Готов к командировкам, возможен переезд по договорённости, готов работать удалённо.
