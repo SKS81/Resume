@@ -1,5 +1,5 @@
 # **Резюме** (_начинающий специалист_)
-[Скачать PDF-файл](https://github.com/SKS81/Resume/raw/main/ANVedeneev.pdf)
+[Скачать/распечатать PDF-файл резюме](https://github.com/SKS81/Resume/raw/main/ANVedeneev.pdf)
 ## **_Тестировщик ПО_** - Полная занятость/рассматриваю так же удалённую работу
 
 # Александр Веденеев
