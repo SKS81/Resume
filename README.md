@@ -1,9 +1,9 @@
 # **Резюме**
 ## **_Тестировщик ПО_** - Полная занятость/рассматриваю так же удалённую работу
-[Скачать/распечатать PDF-файл резюме](https://github.com/SKS81/Resume/raw/main/ANVedeneev.pdf)
+[Скачать/распечатать PDF-файл резюме](https://github.com/SKS81/Resume/blob/main/resources/ANVedeneev.pdf)
 ***
 # Александр Веденеев
-![My photo](https://github.com/SKS81/Resume/blob/main/Myphoto/Myphoto.jpg "Александр Веденеев")
+![My photo](https://github.com/SKS81/Resume/blob/main/resources/myphoto/Myphoto.jpg "Александр Веденеев")
 
 ### Телефон: ***+7 ( 929 ) 660 - 09 81*** / WhatsApp, Telegram
 ### E-mail: ***avedeneeff@mail.ru*** - предпочтительный способ связи
@@ -40,13 +40,13 @@
 - с июля 2022г. ООО «Нетология» направление **«Программирование»**, курс **«Тестировщик ПО»** (программа курса по [_ссылке_](https://netology.ru/programs/qa)). Окончание обучения – март 2023г.
 
 - «Ручное тестирование веб-приложений» свидетельство IQA-48-8138989 ООО «Нетология» 2022г.
-![Htest](https://github.com/SKS81/Resume/blob/main/sertificate/Svht.JPG?raw=true "Свидетельство IQA-48-8138989")
+![Htest](https://github.com/SKS81/Resume/blob/main/resources/sertificate/Svht.JPG?raw=true "Свидетельство IQA-48-8138989")
 - «Git – система контроля версий» свидетельство GIT-56-8138989 ООО «Нетология» 2022г.
-![Git](https://github.com/SKS81/Resume/blob/main/sertificate/SvGit.JPG?raw=true "Свидетельство GIT-56-8138989")
+![Git](https://github.com/SKS81/Resume/blob/main/resources/sertificate/SvGit.JPG?raw=true "Свидетельство GIT-56-8138989")
 - "Java для тестировщиков" свидетельство JAVAQA-48-8138989 ООО «Нетология» 2022г.
-![Java](https://github.com/SKS81/Resume/blob/main/sertificate/Svjava.JPG?raw=true "Свидетельство JAVAQA-48-8138989")
+![Java](https://github.com/SKS81/Resume/blob/main/resources/sertificate/Svjava.JPG?raw=true "Свидетельство JAVAQA-48-8138989")
 - «Автоматизированное тестирование» свидетельство AQA-47-8138989 ООО «Нетология» 2023г.
-![Atest](https://github.com/SKS81/Resume/blob/main/sertificate/SvAt.jpg?raw=true "Свидетельство AQA-47-8138989")
+![Atest](https://github.com/SKS81/Resume/blob/main/resources/sertificate/SvAt.jpg?raw=true "Свидетельство AQA-47-8138989")
 ---
 Самообразование:
 - «Тестирование ВЕБ-приложений» Алексей Баранцев – видеоуроки
