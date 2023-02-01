@@ -3,7 +3,7 @@
 [Скачать/распечатать PDF-файл резюме](https://github.com/SKS81/Resume/raw/main/ANVedeneev.pdf)
 ***
 # Александр Веденеев
-![My photo](Myphoto.jpg "Александр Веденеев")
+![My photo](Myphoto/Myphoto.jpg "Александр Веденеев")
 
 ### Телефон: ***+7 ( 929 ) 660 - 09 81*** / WhatsApp, Telegram
 ### E-mail: ***avedeneeff@mail.ru*** - предпочтительный способ связи
