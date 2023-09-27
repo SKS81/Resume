@@ -1,6 +1,6 @@
 # **Резюме** _Status_: ![](https://github.com/SKS81/Resume/blob/main/resources/myphoto/Bage_Ok.PNG)
 ## **_Тестировщик ПО_** - Полная занятость/рассматриваю так же удалённую работу
-[Скачать/распечатать PDF-файл резюме](https://github.com/SKS81/Resume/blob/main/resources/ANVedeneev.pdf)
+## [Скачать/распечатать PDF-файл резюме](https://github.com/SKS81/Resume/blob/main/resources/ANVedeneev.pdf)
 ***
 # Александр Веденеев
 <p align="center">
